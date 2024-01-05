@@ -1,0 +1,6 @@
+[submodule "FrontBacklogix"]
+	path = FrontBacklogix
+	url = https://github.com/Pop115/FrontBacklogix
+[submodule "BackBacklogix"]
+	path = BackBacklogix
+	url = https://github.com/Pop115/BackBacklogix
